@@ -4,6 +4,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/sfz-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/sfz-framework-model/pom.xml" />
+        <option value="$PROJECT_DIR$/sfz-framework-common/pom.xml" />
+        <option value="$PROJECT_DIR$/sfz-framework-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/sfz-framework-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/test-framework/pom.xml" />
       </list>
     </option>
   </component>

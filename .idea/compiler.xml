@@ -2,15 +2,26 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="sfz-framework-common" />
+        <module name="sfz-framework-model" />
+        <module name="sfz-framework-parent" />
+        <module name="sfz-framework-utils" />
         <module name="sfz-service-api" />
+        <module name="test-framework" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="sfz-service-api" target="1.5" />
+      <module name="sfz-framework-common" target="1.8" />
+      <module name="sfz-framework-model" target="1.5" />
+      <module name="sfz-framework-parent" target="1.8" />
+      <module name="sfz-framework-utils" target="1.8" />
+      <module name="sfz-service-api" target="1.8" />
+      <module name="test-framework" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

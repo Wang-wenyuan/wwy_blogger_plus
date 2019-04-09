@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/sfz-framework-common/sfz-framework-common.iml" filepath="$PROJECT_DIR$/sfz-framework-common/sfz-framework-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sfz-framework-model/sfz-framework-model.iml" filepath="$PROJECT_DIR$/sfz-framework-model/sfz-framework-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sfz-framework-parent/sfz-framework-parent.iml" filepath="$PROJECT_DIR$/sfz-framework-parent/sfz-framework-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sfz-framework-utils/sfz-framework-utils.iml" filepath="$PROJECT_DIR$/sfz-framework-utils/sfz-framework-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/sfz-service-api/sfz-service-api.iml" filepath="$PROJECT_DIR$/sfz-service-api/sfz-service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-framework/test-framework.iml" filepath="$PROJECT_DIR$/test-framework/test-framework.iml" />
     </modules>
   </component>
 </project>
